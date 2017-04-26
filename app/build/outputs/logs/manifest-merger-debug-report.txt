@@ -1,0 +1,129 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/egehatirnaz/AndroidStudioProjects/HanginMap/app/src/main/AndroidManifest.xml:2:1-46:12
+	package
+		ADDED from /Users/egehatirnaz/AndroidStudioProjects/HanginMap/app/src/main/AndroidManifest.xml:3:5-35
+		INJECTED from /Users/egehatirnaz/AndroidStudioProjects/HanginMap/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/egehatirnaz/AndroidStudioProjects/HanginMap/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/egehatirnaz/AndroidStudioProjects/HanginMap/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/egehatirnaz/AndroidStudioProjects/HanginMap/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/egehatirnaz/AndroidStudioProjects/HanginMap/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /Users/egehatirnaz/AndroidStudioProjects/HanginMap/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/egehatirnaz/AndroidStudioProjects/HanginMap/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/egehatirnaz/AndroidStudioProjects/HanginMap/app/src/main/AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from /Users/egehatirnaz/AndroidStudioProjects/HanginMap/app/src/main/AndroidManifest.xml:10:22-76
+application
+ADDED from /Users/egehatirnaz/AndroidStudioProjects/HanginMap/app/src/main/AndroidManifest.xml:12:5-43:19
+MERGED from [com.android.support:appcompat-v7:25.2.0] /Users/egehatirnaz/.android/build-cache/ece688b2d2f5c473cf8cc24b691359e272be35cb/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] /Users/egehatirnaz/.android/build-cache/9464b76dcad82919776b753afd23c7eb00b7af00/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.2.0] /Users/egehatirnaz/.android/build-cache/1ff0b29a8fa74aca1b5bb2979b8256fbf04dbd21/output/AndroidManifest.xml:23:5-20
+MERGED from [com.google.android.gms:play-services-maps:10.2.0] /Users/egehatirnaz/.android/build-cache/4a3abcb0d5f17f362e3f16fedcd19a1b7beff5b6/output/AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-base:10.2.0] /Users/egehatirnaz/.android/build-cache/757845d0da26a7dd7312614617aeb99564a4c54d/output/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:10.2.0] /Users/egehatirnaz/.android/build-cache/7c4678ccc74a509d4d726b77ef11090b1f6f0376/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.2.0] /Users/egehatirnaz/.android/build-cache/92de50babac843ba27fd49ad14202bf45b3f28d0/output/AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:25.2.0] /Users/egehatirnaz/.android/build-cache/a89e9036176737ba3a93e44a38fc059bf05c7fca/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] /Users/egehatirnaz/.android/build-cache/c74d757f9e6477535c3116d0521d77b72fad4e18/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] /Users/egehatirnaz/.android/build-cache/97754a819d66125f4615960d160f1b180c27628b/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] /Users/egehatirnaz/.android/build-cache/00e6bff75ccdba18a18138f7ba479e8f923b0eec/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] /Users/egehatirnaz/.android/build-cache/ff644616295ef2678c7fd3b08975fa42e204d266/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] /Users/egehatirnaz/.android/build-cache/135966bc483d3997490ac616d773a6d5321bed96/output/AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from /Users/egehatirnaz/AndroidStudioProjects/HanginMap/app/src/main/AndroidManifest.xml:15:9-41
+	android:supportsRtl
+		ADDED from /Users/egehatirnaz/AndroidStudioProjects/HanginMap/app/src/main/AndroidManifest.xml:17:9-35
+	android:roundIcon
+		ADDED from /Users/egehatirnaz/AndroidStudioProjects/HanginMap/app/src/main/AndroidManifest.xml:16:9-54
+	android:allowBackup
+		ADDED from /Users/egehatirnaz/AndroidStudioProjects/HanginMap/app/src/main/AndroidManifest.xml:13:9-35
+	android:icon
+		ADDED from /Users/egehatirnaz/AndroidStudioProjects/HanginMap/app/src/main/AndroidManifest.xml:14:9-43
+	android:theme
+		ADDED from /Users/egehatirnaz/AndroidStudioProjects/HanginMap/app/src/main/AndroidManifest.xml:18:9-40
+meta-data#com.google.android.geo.API_KEY
+ADDED from /Users/egehatirnaz/AndroidStudioProjects/HanginMap/app/src/main/AndroidManifest.xml:28:9-30:55
+	android:value
+		ADDED from /Users/egehatirnaz/AndroidStudioProjects/HanginMap/app/src/main/AndroidManifest.xml:30:13-52
+	android:name
+		ADDED from /Users/egehatirnaz/AndroidStudioProjects/HanginMap/app/src/main/AndroidManifest.xml:29:13-58
+activity#com.hangin.hanginmap.MapsActivity
+ADDED from /Users/egehatirnaz/AndroidStudioProjects/HanginMap/app/src/main/AndroidManifest.xml:32:9-42:20
+	android:label
+		ADDED from /Users/egehatirnaz/AndroidStudioProjects/HanginMap/app/src/main/AndroidManifest.xml:34:13-56
+	android:name
+		ADDED from /Users/egehatirnaz/AndroidStudioProjects/HanginMap/app/src/main/AndroidManifest.xml:33:13-41
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from /Users/egehatirnaz/AndroidStudioProjects/HanginMap/app/src/main/AndroidManifest.xml:35:13-41:29
+action#android.intent.action.VIEW
+ADDED from /Users/egehatirnaz/AndroidStudioProjects/HanginMap/app/src/main/AndroidManifest.xml:36:17-69
+	android:name
+		ADDED from /Users/egehatirnaz/AndroidStudioProjects/HanginMap/app/src/main/AndroidManifest.xml:36:25-66
+category#android.intent.category.DEFAULT
+ADDED from /Users/egehatirnaz/AndroidStudioProjects/HanginMap/app/src/main/AndroidManifest.xml:37:17-76
+	android:name
+		ADDED from /Users/egehatirnaz/AndroidStudioProjects/HanginMap/app/src/main/AndroidManifest.xml:37:27-73
+category#android.intent.category.BROWSABLE
+ADDED from /Users/egehatirnaz/AndroidStudioProjects/HanginMap/app/src/main/AndroidManifest.xml:38:17-77
+	android:name
+		ADDED from /Users/egehatirnaz/AndroidStudioProjects/HanginMap/app/src/main/AndroidManifest.xml:38:27-75
+data
+ADDED from /Users/egehatirnaz/AndroidStudioProjects/HanginMap/app/src/main/AndroidManifest.xml:39:17-79
+	android:host
+		ADDED from /Users/egehatirnaz/AndroidStudioProjects/HanginMap/app/src/main/AndroidManifest.xml:39:46-76
+	android:scheme
+		ADDED from /Users/egehatirnaz/AndroidStudioProjects/HanginMap/app/src/main/AndroidManifest.xml:39:23-45
+uses-sdk
+INJECTED from /Users/egehatirnaz/AndroidStudioProjects/HanginMap/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.2.0] /Users/egehatirnaz/.android/build-cache/ece688b2d2f5c473cf8cc24b691359e272be35cb/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] /Users/egehatirnaz/.android/build-cache/9464b76dcad82919776b753afd23c7eb00b7af00/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.2.0] /Users/egehatirnaz/.android/build-cache/1ff0b29a8fa74aca1b5bb2979b8256fbf04dbd21/output/AndroidManifest.xml:21:5-43
+MERGED from [com.google.android.gms:play-services-maps:10.2.0] /Users/egehatirnaz/.android/build-cache/4a3abcb0d5f17f362e3f16fedcd19a1b7beff5b6/output/AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-base:10.2.0] /Users/egehatirnaz/.android/build-cache/757845d0da26a7dd7312614617aeb99564a4c54d/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:10.2.0] /Users/egehatirnaz/.android/build-cache/7c4678ccc74a509d4d726b77ef11090b1f6f0376/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:10.2.0] /Users/egehatirnaz/.android/build-cache/92de50babac843ba27fd49ad14202bf45b3f28d0/output/AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:25.2.0] /Users/egehatirnaz/.android/build-cache/a89e9036176737ba3a93e44a38fc059bf05c7fca/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.2.0] /Users/egehatirnaz/.android/build-cache/c74d757f9e6477535c3116d0521d77b72fad4e18/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.2.0] /Users/egehatirnaz/.android/build-cache/97754a819d66125f4615960d160f1b180c27628b/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.2.0] /Users/egehatirnaz/.android/build-cache/00e6bff75ccdba18a18138f7ba479e8f923b0eec/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.2.0] /Users/egehatirnaz/.android/build-cache/ff644616295ef2678c7fd3b08975fa42e204d266/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.2.0] /Users/egehatirnaz/.android/build-cache/135966bc483d3997490ac616d773a6d5321bed96/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.2.0] /Users/egehatirnaz/.android/build-cache/ece688b2d2f5c473cf8cc24b691359e272be35cb/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/egehatirnaz/AndroidStudioProjects/HanginMap/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/egehatirnaz/AndroidStudioProjects/HanginMap/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/egehatirnaz/AndroidStudioProjects/HanginMap/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/egehatirnaz/AndroidStudioProjects/HanginMap/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:10.2.0] /Users/egehatirnaz/.android/build-cache/4a3abcb0d5f17f362e3f16fedcd19a1b7beff5b6/output/AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:10.2.0] /Users/egehatirnaz/.android/build-cache/4a3abcb0d5f17f362e3f16fedcd19a1b7beff5b6/output/AndroidManifest.xml:19:22-76
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.android.gms:play-services-maps:10.2.0] /Users/egehatirnaz/.android/build-cache/4a3abcb0d5f17f362e3f16fedcd19a1b7beff5b6/output/AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:10.2.0] /Users/egehatirnaz/.android/build-cache/4a3abcb0d5f17f362e3f16fedcd19a1b7beff5b6/output/AndroidManifest.xml:20:22-64
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:10.2.0] /Users/egehatirnaz/.android/build-cache/4a3abcb0d5f17f362e3f16fedcd19a1b7beff5b6/output/AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:10.2.0] /Users/egehatirnaz/.android/build-cache/4a3abcb0d5f17f362e3f16fedcd19a1b7beff5b6/output/AndroidManifest.xml:21:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:10.2.0] /Users/egehatirnaz/.android/build-cache/4a3abcb0d5f17f362e3f16fedcd19a1b7beff5b6/output/AndroidManifest.xml:21:52-75
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:10.2.0] /Users/egehatirnaz/.android/build-cache/757845d0da26a7dd7312614617aeb99564a4c54d/output/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:10.2.0] /Users/egehatirnaz/.android/build-cache/757845d0da26a7dd7312614617aeb99564a4c54d/output/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:10.2.0] /Users/egehatirnaz/.android/build-cache/757845d0da26a7dd7312614617aeb99564a4c54d/output/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:10.2.0] /Users/egehatirnaz/.android/build-cache/757845d0da26a7dd7312614617aeb99564a4c54d/output/AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:10.2.0] /Users/egehatirnaz/.android/build-cache/92de50babac843ba27fd49ad14202bf45b3f28d0/output/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:10.2.0] /Users/egehatirnaz/.android/build-cache/92de50babac843ba27fd49ad14202bf45b3f28d0/output/AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:10.2.0] /Users/egehatirnaz/.android/build-cache/92de50babac843ba27fd49ad14202bf45b3f28d0/output/AndroidManifest.xml:20:20-65
